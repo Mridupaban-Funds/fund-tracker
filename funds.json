@@ -1,0 +1,76 @@
+{
+  "funds": [
+    {
+      "name": "Parag Parikh Flexi Cap",
+      "holdings": [
+        {
+          "stock": "HDFC Bank",
+          "weight": "8.0"
+        },
+        {
+          "stock": "ICICI Bank",
+          "weight": "7.0"
+        },
+        {
+          "stock": "ITC",
+          "weight": "6.0"
+        }
+      ]
+    },
+    {
+      "name": "HDFC Defence",
+      "holdings": [
+        {
+          "stock": "Bharat Electronics",
+          "weight": "16.55"
+        },
+        {
+          "stock": "Bharat Forge",
+          "weight": "14.57"
+        },
+        {
+          "stock": "HAL",
+          "weight": "12.96"
+        },
+        {
+          "stock": "Solar Industries",
+          "weight": "10.79"
+        }
+      ]
+    },
+    {
+      "name": "ICICI Healthcare",
+      "holdings": [
+        {
+          "stock": "Sun Pharma",
+          "weight": "12.09"
+        },
+        {
+          "stock": "Dr Reddys",
+          "weight": "7.70"
+        },
+        {
+          "stock": "Cipla",
+          "weight": "7.45"
+        },
+        {
+          "stock": "Mankind Pharma",
+          "weight": "7.03"
+        }
+      ]
+    },
+    {
+      "name": "UTI Nifty Next 50",
+      "holdings": [
+        {
+          "stock": "Sample Holding 1",
+          "weight": "5.0"
+        },
+        {
+          "stock": "Sample Holding 2",
+          "weight": "4.0"
+        }
+      ]
+    }
+  ]
+}
